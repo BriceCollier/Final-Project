@@ -1,0 +1,7 @@
+*.yml~
+.vargrant/
+.ansible/
+*.log
+secrets.yml
+*.pem
+*.key
